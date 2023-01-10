@@ -1,4 +1,4 @@
-### ***Welcome to Aaliyah's GitHub!***
+## ***Welcome to Aaliyah's GitHub!***
 - 👋 Hi, I’m @sunlightbeauty
 - 👀 I’m interested in learning various programming languages
 - 🌱 I’m currently learning C++ and web development languages like HTML, CSS, and JavaScript
